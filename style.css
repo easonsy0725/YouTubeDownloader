@@ -32,7 +32,7 @@ input:focus{
 }
 button{
     padding: 10px;
-    background-color: #FFD81F;
+    background-color: #64C896;
     border: none;
     border-radius: 10px;
     color: white;
@@ -40,8 +40,7 @@ button{
 }
 
 button:hover{
-    background-color: #f0ca0e;
-    cursor: pointer;
+    background-color: #64C896;
 }
 
 
